@@ -8,6 +8,10 @@
 
 > Stack: React, Styled-component,React spliting., Search images in unsplash, Infinity scroll, get info images.
 
+## Demo
+
+[Proyect demo](https://peaceful-leakey-5c832f.netlify.app/).
+
 ## Install
 
 ```sh
