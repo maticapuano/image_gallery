@@ -6,7 +6,7 @@ const apiPhotos = base("photos");
 const apiSearchPhotos = base("search/photos");
 
 const apiConfig = {
-  accessKey: "zryZ08nF7jlZrQpfpGno8xAdtttjaDtG7HzvEFHnp5g",
+  accessKey: process.env.API_KEY,
 };
 
 export function useGetPhotos(
